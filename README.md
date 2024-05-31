@@ -1,4 +1,4 @@
-                                                            ONLINE AUCTION SYSTEM
+                                      ONLINE AUCTION SYSTEM
 
 Description:
 Overview
